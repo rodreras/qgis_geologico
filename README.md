@@ -47,14 +47,19 @@ _____
 O QGIS é um software de sistema de informações geográficas, de código aberto. Funciona em vários sistemas operacionais, como Windows, Linux, MacOS e Android.
 
 O [QGIS Brasil](http://qgisbrasil.org) é a comunidade brasileira. Muito bem estruturada, possui diversos canais de comunicação, como [Facebook](https://www.facebook.com/groups/qgisbrasil/?multi_permalinks=4170942409595775&notif_id=1620579383859994&notif_t=group_highlights&ref=notif), [Telegram](https://t.me/thinkfreeqgis) e [Discord](https://discord.gg/GzaTAgyuBJ). 
+
 Mensalmente, a comunidade compartilha uma série de palestras, com intutito de difundir o conhecimento geoespacial pela comunidade, além de aumentar o engajamento e participação dos usuários.
+
 Faça parte e contribua com a comunidade! 
 
 ____
 
 #### Instalando o QGIS
 
-Para baixar o QGIS, [clique aqui para ser redirecionado para o site](https://www.qgis.org/pt_BR/site/forusers/download.html). Em seguida, baixe a versão `3.16`.
+Para baixar o QGIS, [clique aqui para ser redirecionado para o site](https://www.qgis.org/pt_BR/site/forusers/download.html).
+
+Em seguida, baixe a versão `3.16`.
+
 Dependendo do seu computador, escolha `64 bits` ou `32 bits`. Lembrando que a maioria dos computadores mais recentes são `64 bits`.
 
 ______
@@ -80,7 +85,7 @@ Os vídeos ficaram disponíveis por 15 dias após a aula ao vivo.
 
   - Data limite para envio do Mapa para revisão: 00h de 12/06/2021
   - Expectativa para feedback dos mapas: até 15 dias
-  - Você deve enviar para: `rbs_mapas@gmail.com`
+  - Você deve enviar para: `rbs.mapas@gmail.com`
 
 **Turma 2**
 
@@ -96,7 +101,7 @@ Os vídeos ficaram disponíveis por 15 dias após a aula ao vivo.
 
  - Data limite para envio do Mapa para revisão: 00h de 19/06/2021
  - Expectativa para feedback: até 15 dias
- - Você deve enviar para: `rbs_mapas@gmail.com`
+ - Você deve enviar para: `rbs.mapas@gmail.com`
 
 ______
 
@@ -109,6 +114,9 @@ ____
 #### Sobre Mim
 
 Oi, galera! Sou Rodrigo, estudante de Geologia pela UFRuralRJ. Atualmente, sou analista de dados espaciais na minerAI. Lido com QGIS e Python aplicado aos dados espaciais com bastante frequência.
+
 Desde o meu terceiro período que desenvolvi interesse pela área das geotecnologias, mas só a partir do sétimo período, no laboratório de hidrogeologia da UFRJ, que comecei a lidar com SIG diariamente. 
+
 Depois, fiz uma iniciação científica no Parque Nacional da Tijuca, lidando com mapemaento e levantamento de processos erosivos. Nessa época que me aproximei muito do QGIS, da comunidade, e comecei a desenvolver melhor minhas habilidades.
-Se você quiser falar comigo, [pode me chamar no Linkedin](https://www.linkedin.com/in/rodrigobrust/). Também tenho [Telegram](https://t.me/r_brust). Ou se você for mais tradicional, pode me [enviar um email](mailto:rodrigobrusts@gmail.com)
+
+Se você quiser falar comigo, [pode me chamar no Linkedin](https://www.linkedin.com/in/rodrigobrust/). Também tenho [Telegram](https://t.me/r_brust). Ou se você for mais tradicional, pode me [enviar um email](mailto:rodrigobrusts@gmail.com).
