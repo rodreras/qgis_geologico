@@ -65,7 +65,7 @@ O curso terá todo seu conteúdo gravado, com excessão das aulas ao vivo. Uma s
 No sábado, a aula ao vivo tem como objetivo mostrar o procedimento do desafio, além de tirar dúvidas que ocorreram ao longo da semana.
 Os vídeos ficaram disponíveis por 15 dias após a aula ao vivo.
 
-- Turma 1
+**Turma 1**
 
 | Aula | Disponibilização | Remoção |
 |------|------------------|---------|
@@ -78,11 +78,11 @@ Os vídeos ficaram disponíveis por 15 dias após a aula ao vivo.
 | Aula ao Vivo | 12/06/2021 | 03/07/2021 |
 
 
- - Data limite para envio do Mapa para revisão: 00h de 12/06/2021
- - Expectativa para feedback dos mapas: até 15 dias
- - Você deve enviar para: `rbs_mapas@gmail.com`
+  - Data limite para envio do Mapa para revisão: 00h de 12/06/2021
+  - Expectativa para feedback dos mapas: até 15 dias
+  - Você deve enviar para: `rbs_mapas@gmail.com`
 
-- Turma 2
+**Turma 2**
 
 | Aula| Disponibilização | Remoção |
 |------|------------------|---------|
