@@ -67,14 +67,15 @@ Os vídeos ficaram disponíveis por 15 dias após a aula ao vivo.
 
 - Turma 1
 
-|Aula| Disponibilização |Remoção|
-|Baixando e Conhecendo o QGIS| 07/06/2021| 03/07/2021|
-|Vetores e Rasters| 07/06/2021| 03/07/2021| 
-|Sistema de Coordenadas | 07/06/2021| 03/07/2021| 
-|Georreferenciamento | 07/06/2021 | 03/07/2021 | 
-| Customização de Simbologias | 07/06/2021 | 03/07/2021|
-| Layout de Mapa | 07/06/2021 | 03/07/2021|
-| Aula ao Vivo | 12/06/2021 | 03/07/2021|
+| Aula | Disponibilização | Remoção |
+|------|------------------|---------|
+| Baixando e Conhecendo o QGIS| 07/06/2021 | 03/07/2021 |
+| Vetores e Rasters | 07/06/2021| 03/07/2021 | 
+| Sistema de Coordenadas | 07/06/2021| 03/07/2021 | 
+| Georreferenciamento | 07/06/2021 | 03/07/2021 | 
+| Customização de Simbologias | 07/06/2021 | 03/07/2021 |
+| Layout de Mapa | 07/06/2021 | 03/07/2021 |
+| Aula ao Vivo | 12/06/2021 | 03/07/2021 |
 
 
  - Data limite para envio do Mapa para revisão: 00h de 12/06/2021
@@ -83,14 +84,15 @@ Os vídeos ficaram disponíveis por 15 dias após a aula ao vivo.
 
 - Turma 2
 
-|Aula| Disponibilização |Remoção|
-|Baixando e Conhecendo o QGIS| 14/06/2021| 10/07/2021|
-|Vetores e Rasters| 14/06/2021| 10/07/2021| 
-|Sistema de Coordenadas | 14/06/2021| 10/07/2021| 
-|Georreferenciamento | 14/06/2021 | 10/07/2021 | 
-| Customização de Simbologias | 14/06/2021 | 10/07/2021|
-| Layout de Mapa | 14/06/2021 | 10/07/2021|
-| Aula ao Vivo | 19/06/2021 | 10/07/2021|
+| Aula| Disponibilização | Remoção |
+|------|------------------|---------|
+| Baixando e Conhecendo o QGIS| 14/06/2021 | 10/07/2021 |
+| Vetores e Rasters | 14/06/2021| 10/07/2021| 
+| Sistema de Coordenadas | 14/06/2021| 10/07/2021 | 
+| Georreferenciamento | 14/06/2021 | 10/07/2021 | 
+| Customização de Simbologias | 14/06/2021 | 10/07/2021 |
+| Layout de Mapa | 14/06/2021 | 10/07/2021 |
+| Aula ao Vivo | 19/06/2021 | 10/07/2021 |
 
  - Data limite para envio do Mapa para revisão: 00h de 19/06/2021
  - Expectativa para feedback: até 15 dias
