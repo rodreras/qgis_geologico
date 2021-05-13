@@ -1,4 +1,4 @@
-<img align="left" width="200" height="200" src="https://user-images.githubusercontent.com/53950449/118178620-92c52b80-b40a-11eb-906f-dbd56aaec3c9.png"> <img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/53950449/118178706-b25c5400-b40a-11eb-921b-d251ce79b1be.png">
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/53950449/118178620-92c52b80-b40a-11eb-906f-dbd56aaec3c9.png"> <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/53950449/118178706-b25c5400-b40a-11eb-921b-d251ce79b1be.png">
 
 
 
@@ -39,7 +39,7 @@ Atente-se para os locais onde salvar seus projetos, mapas, e modificações de c
 _____
 
 <p align="center">
-  <img width="460" height="300" src = "https://i2.wp.com/qgisbrasil.org/wp-content/uploads/2017/08/cropped-qgis_brasil_original.png?resize=161%2C149"
+  <img width="411" height="122" src="https://i2.wp.com/qgisbrasil.org/wp-content/uploads/2017/08/qgis_brasil_original.png?w=500">
 </p>
 
 #### Sobre o QGIS
@@ -52,12 +52,14 @@ Faça parte e contribua com a comunidade!
 
 ____
 
-Para baixar o QGIS, clique aqui para ser redirecionado para o site. Em seguida, baixe a versão `3.16`.
+#### Instalando o QGIS
+
+Para baixar o QGIS, [clique aqui para ser redirecionado para o site](https://www.qgis.org/pt_BR/site/forusers/download.html). Em seguida, baixe a versão `3.16`.
 Dependendo do seu computador, escolha `64 bits` ou `32 bits`. Lembrando que a maioria dos computadores mais recentes são `64 bits`.
 
 ______
 
-### Sobre as aulas
+#### Sobre as aulas
 
 O curso terá todo seu conteúdo gravado, com excessão das aulas ao vivo. Uma semana antes da aula ao vivo, que será em um sábado, serão desponibilizado os links para que assistam e realizem as atividades práticas até sábado. É fundamental praticar, pois só assim que você irá absorver o conteúdo. 
 No sábado, a aula ao vivo tem como objetivo mostrar o procedimento do desafio, além de tirar dúvidas que ocorreram ao longo da semana.
@@ -96,13 +98,13 @@ Os vídeos ficaram disponíveis por 15 dias após a aula ao vivo.
 
 ______
 
-### Comunicação e Sala de Dúvidas
+#### Comunicação e Sala de Dúvidas
 
 Para a comunicação, utilizaremos um servidor do [Discord]() por conta da facilidade de fazer reuniões rápidas para tirar eventuais dúvidas. Também, há um bom registro das dúvidas que forem tiradas, auxiliando assim outras pessoas.
 
 ____
 
-### Sobre Mim
+#### Sobre Mim
 
 Oi, galera! Sou Rodrigo, estudante de Geologia pela UFRuralRJ. Atualmente, sou analista de dados espaciais na minerAI. Lido com QGIS e Python aplicado aos dados espaciais com bastante frequência.
 Desde o meu terceiro período que desenvolvi interesse pela área das geotecnologias, mas só a partir do sétimo período, no laboratório de hidrogeologia da UFRJ, que comecei a lidar com SIG diariamente. 
