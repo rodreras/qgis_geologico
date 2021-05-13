@@ -8,7 +8,7 @@
 
 ___
 
-Esse curso tem como objetivo mostrar todo o processo de confecção de mapa geológico feito em folhas topográficas, durante o trabalho de campo, para algo mais rebuscado usando QGIS, ideal para inserir nos relatórios.
+Esse curso tem como objetivo mostrar todo o processo de elaborar de mapa geológico feito em folhas topográficas, durante o trabalho de campo, para algo mais rebuscado usando QGIS, ideal para inserir nos relatórios.
 
 Aprenderemos os seguintes tópicos:
 
@@ -28,7 +28,7 @@ Aprenderemos os seguintes tópicos:
 
 - Bônus: Baixando dados do CPRM
 
-Com essa bagagem, você terá capacidade de confecionar seus próprios mapas geológicos, [consultar dados públicos do CPRM](http://geosgb.cprm.gov.br/geosgb/downloads.html), e também, a base necessária para desenvolver outros tipos de mapas utilizando o QGIS;
+Com essa bagagem, você terá capacidade de elaborar seus próprios mapas geológicos, [consultar dados públicos do CPRM](http://geosgb.cprm.gov.br/geosgb/downloads.html), e também, a base necessária para desenvolver outros tipos de mapas utilizando o QGIS;
 
 ___
 
