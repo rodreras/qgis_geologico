@@ -107,7 +107,7 @@ ______
 
 #### Comunicação e Sala de Dúvidas
 
-Para a comunicação, utilizaremos um servidor do [Discord]() por conta da facilidade de fazer reuniões rápidas para tirar eventuais dúvidas. Também, há um bom registro das dúvidas que forem tiradas, auxiliando assim outras pessoas.
+Para a comunicação, utilizaremos um servidor do [Discord](https://discord.gg/CcyKJmCTmT) por conta da facilidade de fazer reuniões rápidas para tirar eventuais dúvidas. Também, há um bom registro das dúvidas que forem tiradas, auxiliando assim outras pessoas.
 
 ____
 
