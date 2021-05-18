@@ -30,6 +30,8 @@ Aprenderemos os seguintes tópicos:
 
 Com essa bagagem, você terá capacidade de elaborar seus próprios mapas geológicos, [consultar dados públicos do CPRM](http://geosgb.cprm.gov.br/geosgb/downloads.html), e também, a base necessária para desenvolver outros tipos de mapas utilizando o QGIS;
 
+![image](https://user-images.githubusercontent.com/53950449/118647516-cc55b800-b7b7-11eb-9f28-6fb42f291ac6.png)
+
 ___
 
 Os dados estão nesse repositório em suas respectivas pastas. Façam o download como arquivo `zip`, e aloque em uma pasta. 
