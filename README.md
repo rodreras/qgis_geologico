@@ -98,7 +98,7 @@ Os vídeos ficaram disponíveis por 15 dias após a aula ao vivo.
 | Vetores e Rasters | 14/06/2021| 10/08/2021| 
 | Sistema de Coordenadas | 14/06/2021| 10/08/2021 | 
 | Georreferenciamento | 14/06/2021 | 10/08/2021 | 
-| Customização de Simbologias | 14/08/2021 | 10/08/2021 |
+| Customização de Simbologias | 14/06/2021 | 10/08/2021 |
 | Layout de Mapa | 14/06/2021 | 10/08/2021 |
 | Aula ao Vivo | 19/06/2021 | 10/08/2021 |
 
