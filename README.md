@@ -1,4 +1,4 @@
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/53950449/118178620-92c52b80-b40a-11eb-906f-dbd56aaec3c9.png"> <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/53950449/118178706-b25c5400-b40a-11eb-921b-d251ce79b1be.png">
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/53950449/118178620-92c52b80-b40a-11eb-906f-dbd56aaec3c9.png"> <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/53950449/119190230-7604a580-ba53-11eb-8a1f-5186aa69a385.png">
 
 
 
@@ -29,6 +29,10 @@ Aprenderemos os seguintes tópicos:
 - Bônus: Baixando dados do CPRM
 
 Com essa bagagem, você terá capacidade de elaborar seus próprios mapas geológicos, [consultar dados públicos do CPRM](http://geosgb.cprm.gov.br/geosgb/downloads.html), e também, a base necessária para desenvolver outros tipos de mapas utilizando o QGIS;
+
+<p align = "center">
+  <img  width="500" height="500" src="https://user-images.githubusercontent.com/53950449/118647516-cc55b800-b7b7-11eb-9f28-6fb42f291ac6.png">
+</p>
 
 ___
 
@@ -74,14 +78,13 @@ Os vídeos ficaram disponíveis por 15 dias após a aula ao vivo.
 
 | Aula | Disponibilização | Remoção |
 |------|------------------|---------|
-| Baixando e Conhecendo o QGIS| 07/06/2021 | 03/07/2021 |
-| Vetores e Rasters | 07/06/2021| 03/07/2021 | 
-| Sistema de Coordenadas | 07/06/2021| 03/07/2021 | 
-| Georreferenciamento | 07/06/2021 | 03/07/2021 | 
-| Customização de Simbologias | 07/06/2021 | 03/07/2021 |
-| Layout de Mapa | 07/06/2021 | 03/07/2021 |
-| Aula ao Vivo | 12/06/2021 | 03/07/2021 |
-
+| Baixando e Conhecendo o QGIS| 07/06/2021 | 03/08/2021 |
+| Vetores e Rasters | 07/06/2021| 03/08/2021 | 
+| Sistema de Coordenadas | 07/06/2021| 03/08/2021 | 
+| Georreferenciamento | 07/06/2021 | 03/08/2021 | 
+| Customização de Simbologias | 07/06/2021 | 03/08/2021 |
+| Layout de Mapa | 07/06/2021 | 03/08/2021 |
+| Aula ao Vivo | 12/06/2021 | 03/08/2021 |
 
   - Data limite para envio do Mapa para revisão: 00h de 12/06/2021
   - Expectativa para feedback dos mapas: até 15 dias
@@ -91,13 +94,13 @@ Os vídeos ficaram disponíveis por 15 dias após a aula ao vivo.
 
 | Aula| Disponibilização | Remoção |
 |------|------------------|---------|
-| Baixando e Conhecendo o QGIS| 14/06/2021 | 10/07/2021 |
-| Vetores e Rasters | 14/06/2021| 10/07/2021| 
-| Sistema de Coordenadas | 14/06/2021| 10/07/2021 | 
-| Georreferenciamento | 14/06/2021 | 10/07/2021 | 
-| Customização de Simbologias | 14/06/2021 | 10/07/2021 |
-| Layout de Mapa | 14/06/2021 | 10/07/2021 |
-| Aula ao Vivo | 19/06/2021 | 10/07/2021 |
+| Baixando e Conhecendo o QGIS| 14/06/2021 | 10/08/2021 |
+| Vetores e Rasters | 14/06/2021| 10/08/2021| 
+| Sistema de Coordenadas | 14/06/2021| 10/08/2021 | 
+| Georreferenciamento | 14/06/2021 | 10/08/2021 | 
+| Customização de Simbologias | 14/06/2021 | 10/08/2021 |
+| Layout de Mapa | 14/06/2021 | 10/08/2021 |
+| Aula ao Vivo | 19/06/2021 | 10/08/2021 |
 
  - Data limite para envio do Mapa para revisão: 00h de 19/06/2021
  - Expectativa para feedback: até 15 dias
