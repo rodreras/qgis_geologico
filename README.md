@@ -70,9 +70,9 @@ ______
 
 #### Sobre as aulas
 
-O curso terá todo seu conteúdo gravado, com excessão das aulas ao vivo. Uma semana antes da aula ao vivo, que será em um sábado, serão desponibilizado os links para que assistam e realizem as atividades práticas até sábado. É fundamental praticar, pois só assim que você irá absorver o conteúdo. 
+O curso terá todo seu conteúdo gravado, com exceção das aulas ao vivo. Uma semana antes da aula ao vivo, que será em um sábado, serão desponibilizado os links para que assistam e realizem as atividades práticas até sábado. É fundamental praticar, pois só assim que você irá absorver o conteúdo. 
 No sábado, a aula ao vivo tem como objetivo mostrar o procedimento do desafio, além de tirar dúvidas que ocorreram ao longo da semana.
-Os vídeos ficaram disponíveis por 15 dias após a aula ao vivo.
+Os vídeos ficarão disponíveis por 15 dias após a aula ao vivo.
 
 **Turma 1**
 
