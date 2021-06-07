@@ -1,0 +1,6 @@
+Oi, gente! 
+
+Todos os arquivos para fazer o Desafio Final estão neste geopackage acima, chamado "desafio_final.gpkg".
+
+Para acessá-lo, é necessário utilizar o Navegador do QGIS e apontar para esta pasta. Em caso de dúvida, me pergunta
+no discord que eu faço um vídeo rapidinho mostrando o processo.
