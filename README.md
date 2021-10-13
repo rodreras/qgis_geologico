@@ -36,9 +36,17 @@ Com essa bagagem, você terá capacidade de elaborar seus próprios mapas geoló
 
 ___
 
+## Baixando os Dados
+
 Os dados estão nesse repositório em suas respectivas pastas. Façam o download como arquivo `zip`, e aloque em uma pasta. 
 
+![image](https://user-images.githubusercontent.com/53950449/137153253-2682aa6c-2495-4844-b36e-9cd989f04029.png)
+
+
+
 Atente-se para os locais onde salvar seus projetos, mapas, e modificações de camadas. Respeite sempre a pasta da aula em que se conduz a atividade.
+
+
 
 _____
 
@@ -46,19 +54,22 @@ _____
   <img width="411" height="122" src="https://i2.wp.com/qgisbrasil.org/wp-content/uploads/2017/08/qgis_brasil_original.png?w=500">
 </p>
 
-#### Sobre o QGIS
+## Sobre o QGIS
 
-O QGIS é um software de sistema de informações geográficas, de código aberto. Funciona em vários sistemas operacionais, como Windows, Linux, MacOS e Android.
+O QGIS é um software de sistema de informações geográficas, de código aberto e gratuito. O único que está presente em vários sistemas operacionais, como Windows, Linux, MacOS e Android.
 
-O [QGIS Brasil](http://qgisbrasil.org) é a comunidade brasileira. Muito bem estruturada, possui diversos canais de comunicação, como [Facebook](https://www.facebook.com/groups/qgisbrasil/?multi_permalinks=4170942409595775&notif_id=1620579383859994&notif_t=group_highlights&ref=notif), [Telegram](https://t.me/thinkfreeqgis) e [Discord](https://discord.gg/GzaTAgyuBJ). 
+O [QGIS Brasil (clique aqui para acessar o site)](http://qgisbrasil.org) é a comunidade brasileira. Muito bem estruturada, possui diversos canais de comunicação para tirar dúvidas e dar sugestões:
+- [Facebook](https://www.facebook.com/groups/qgisbrasil/?multi_permalinks=4170942409595775&notif_id=1620579383859994&notif_t=group_highlights&ref=notif)
+- [Telegram](https://t.me/thinkfreeqgis)
+- [Discord](https://discord.gg/GzaTAgyuBJ)
 
-Mensalmente, a comunidade compartilha uma série de palestras, com intutito de difundir o conhecimento geoespacial pela comunidade, além de aumentar o engajamento e participação dos usuários.
+Mensalmente, a comunidade compartilha uma série de palestras, com intutito de difundir o conhecimento geoespacial pela comunidade, além de aumentar o engajamento e participação dos usuários. O evento se chama QGIS OpenDay Brasil, e todo conteúdo está disponível gratuitamente no [canal do Youtube QGIS Brasil](https://www.youtube.com/c/QGISBrasil).
 
 Faça parte e contribua com a comunidade! 
 
 ____
 
-#### Instalando o QGIS
+## Instalando o QGIS
 
 Para baixar o QGIS, [clique aqui para ser redirecionado para o site](https://www.qgis.org/pt_BR/site/forusers/download.html).
 
@@ -68,58 +79,46 @@ Dependendo do seu computador, escolha `64 bits` ou `32 bits`. Lembrando que a ma
 
 ______
 
-#### Sobre as aulas
+## Sobre as aulas
 
-O curso terá todo seu conteúdo gravado, com exceção das aulas ao vivo. Uma semana antes da aula ao vivo, que será em um sábado, serão desponibilizado os links para que assistam e realizem as atividades práticas até sábado. É fundamental praticar, pois só assim que você irá absorver o conteúdo. 
+O curso terá todo seu conteúdo gravado, com exceção daa aula ao vivo. Duas semanas antes da aula ao vivo, que será em um sábado, serão desponibilizado os links para que assistam e realizem as atividades práticas até sábado. É fundamental praticar, pois só assim que você irá absorver o conteúdo. 
 No sábado, a aula ao vivo tem como objetivo mostrar o procedimento do desafio, além de tirar dúvidas que ocorreram ao longo da semana.
-Os vídeos ficarão disponíveis por 15 dias após a aula ao vivo.
 
-**Turma 1**
 
-| Aula | Disponibilização | Remoção |
-|------|------------------|---------|
-| Baixando e Conhecendo o QGIS| 07/06/2021 | 03/08/2021 |
-| Vetores e Rasters | 07/06/2021| 03/08/2021 | 
-| Sistema de Coordenadas | 07/06/2021| 03/08/2021 | 
-| Georreferenciamento | 07/06/2021 | 03/08/2021 | 
-| Customização de Simbologias | 07/06/2021 | 03/08/2021 |
-| Layout de Mapa | 07/06/2021 | 03/08/2021 |
-| Aula ao Vivo | 12/06/2021 | 03/08/2021 |
+**Calendário**
 
-  - Data limite para envio do Mapa para revisão: 00h de 12/06/2021
-  - Expectativa para feedback dos mapas: até 15 dias
-  - Você deve enviar para: `rbs.mapas@gmail.com`
+| Aula | Disponibilização |
+|------|------------------|
+| Baixando e Conhecendo o QGIS| 18/10/2021 |
+| Vetores e Rasters | 18/10/2021|
+| Sistema de Coordenadas | 18/10/2021|
+| Georreferenciamento | 18/10/2021 | 
+| Customização de Simbologias |18/10/2021 |
+| Layout de Mapa | 18/10/2021 |
+| Aula ao Vivo | 30/10/2021 |
 
-**Turma 2**
 
-| Aula| Disponibilização | Remoção |
-|------|------------------|---------|
-| Baixando e Conhecendo o QGIS| 14/06/2021 | 10/08/2021 |
-| Vetores e Rasters | 14/06/2021| 10/08/2021| 
-| Sistema de Coordenadas | 14/06/2021| 10/08/2021 | 
-| Georreferenciamento | 14/06/2021 | 10/08/2021 | 
-| Customização de Simbologias | 14/06/2021 | 10/08/2021 |
-| Layout de Mapa | 14/06/2021 | 10/08/2021 |
-| Aula ao Vivo | 19/06/2021 | 10/08/2021 |
 
- - Data limite para envio do Mapa para revisão: 00h de 19/06/2021
+ - Data limite para envio do Mapa para revisão: 09h de 30/10/2021
  - Expectativa para feedback: até 15 dias
  - Você deve enviar para: `rbs.mapas@gmail.com`
 
 ______
 
-#### Comunicação e Sala de Dúvidas
+## Comunicação e Sala de Dúvidas
 
 Para a comunicação, utilizaremos um servidor do [Discord](https://discord.gg/CcyKJmCTmT) por conta da facilidade de fazer reuniões rápidas para tirar eventuais dúvidas. Também, há um bom registro das dúvidas que forem tiradas, auxiliando assim outras pessoas.
 
 ____
 
-#### Sobre Mim
+## Sobre Mim
 
-Oi, galera! Sou Rodrigo, estudante de Geologia pela UFRuralRJ. Atualmente, sou analista de dados espaciais na minerAI. Lido com QGIS e Python aplicado aos dados espaciais com bastante frequência.
+Oi, galera! Sou Rodrigo, estudante de Geologia pela UFRuralRJ. Atualmente, sou estagiário de modelagem numérica na MDGeo. Lido com QGIS e Python aplicado aos dados espaciais com bastante frequência.
 
 Desde o meu terceiro período que desenvolvi interesse pela área das geotecnologias, mas só a partir do sétimo período, no laboratório de hidrogeologia da UFRJ, que comecei a lidar com SIG diariamente. 
 
 Depois, fiz uma iniciação científica no Parque Nacional da Tijuca, lidando com mapemaento e levantamento de processos erosivos. Nessa época que me aproximei muito do QGIS, da comunidade, e comecei a desenvolver melhor minhas habilidades.
+
+Em 2021, ingressei para o time de membros organizadores da Comunidade QGIS Brasil, onde ajudo na divulgação de eventos e gerenciamento das redes sociais.
 
 Se você quiser falar comigo, [pode me chamar no Linkedin](https://www.linkedin.com/in/rodrigobrust/). Também tenho [Telegram](https://t.me/r_brust). Ou se você for mais tradicional, pode me [enviar um email](mailto:rodrigobrusts@gmail.com).
