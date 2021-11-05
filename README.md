@@ -89,17 +89,17 @@ No sábado, a aula ao vivo tem como objetivo mostrar o procedimento do desafio, 
 
 | Aula | Disponibilização |
 |------|------------------|
-| Baixando e Conhecendo o QGIS| 18/10/2021 |
-| Vetores e Rasters | 18/10/2021|
-| Sistema de Coordenadas | 18/10/2021|
-| Georreferenciamento | 18/10/2021 | 
-| Customização de Simbologias |18/10/2021 |
-| Layout de Mapa | 18/10/2021 |
-| Aula ao Vivo | 30/10/2021 |
+| Baixando e Conhecendo o QGIS| 25/10/2021 |
+| Vetores e Rasters | 25/10/2021|
+| Sistema de Coordenadas | 25/10/2021|
+| Georreferenciamento | 25/10/2021 | 
+| Customização de Simbologias |25/10/2021 |
+| Layout de Mapa | 25/10/2021 |
+| Aula ao Vivo | 06/11/2021 |
 
 
 
- - Data limite para envio do Mapa para revisão: 09h de 30/10/2021
+ - Data limite para envio do Mapa para revisão: 09h de 06/11/2021
  - Expectativa para feedback: até 15 dias
  - Você deve enviar para: `rbs.mapas@gmail.com`
 
