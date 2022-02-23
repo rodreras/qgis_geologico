@@ -1,10 +1,8 @@
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/53950449/118178620-92c52b80-b40a-11eb-906f-dbd56aaec3c9.png"> <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/53950449/119190230-7604a580-ba53-11eb-8a1f-5186aa69a385.png">
-
-
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/53950449/118178620-92c52b80-b40a-11eb-906f-dbd56aaec3c9.png">
 
 # Minicurso de Mapeamento Geológico com QGIS
 
-### por Rodrigo Brust, em parceria com Tectus Jr
+### por Rodrigo Brust
 
 ___
 
@@ -89,25 +87,19 @@ No sábado, a aula ao vivo tem como objetivo mostrar o procedimento do desafio, 
 
 | Aula | Disponibilização |
 |------|------------------|
-| Baixando e Conhecendo o QGIS| 25/10/2021 |
-| Vetores e Rasters | 25/10/2021|
-| Sistema de Coordenadas | 25/10/2021|
-| Georreferenciamento | 25/10/2021 | 
-| Customização de Simbologias |25/10/2021 |
-| Layout de Mapa | 25/10/2021 |
-| Aula ao Vivo | 06/11/2021 |
+| Aula ao Vivo | 12/03/2022 |
 
 
 
- - Data limite para envio do Mapa para revisão: 09h de 06/11/2021
- - Expectativa para feedback: até 15 dias
+ - Data limite para envio do Mapa para revisão: 09h de 12/03/2022
+ - Expectativa para feedback: até 30 dias
  - Você deve enviar para: `rbs.mapas@gmail.com`
 
 ______
 
 ## Comunicação e Sala de Dúvidas
 
-Para a comunicação, utilizaremos um servidor do [Discord](https://discord.gg/CcyKJmCTmT) por conta da facilidade de fazer reuniões rápidas para tirar eventuais dúvidas. Também, há um bom registro das dúvidas que forem tiradas, auxiliando assim outras pessoas.
+Em breve.
 
 ____
 
