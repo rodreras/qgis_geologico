@@ -83,17 +83,7 @@ O curso terá todo seu conteúdo gravado, com exceção daa aula ao vivo. Duas s
 No sábado, a aula ao vivo tem como objetivo mostrar o procedimento do desafio, além de tirar dúvidas que ocorreram ao longo da semana.
 
 
-**Calendário**
-
-| Aula | Disponibilização |
-|------|------------------|
-| Aula ao Vivo | 12/03/2022 |
-
-
-
- - Data limite para envio do Mapa para revisão: 09h de 12/03/2022
- - Expectativa para feedback: até 30 dias
- - Você deve enviar para: `rbs.mapas@gmail.com`
+[Vídeos no Youtube](https://www.youtube.com/watch?v=n3PIDThUmhU&list=PLSUwboQThFBvmpQbgEXLDmMBe4zgelHUI)
 
 ______
 
